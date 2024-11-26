@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">KasimTurkcellAndroid</string>
+    <string name="text_hello">Selam Selam </string>
+    <string name="add_product_title">Add Product</string>
 </resources>
